@@ -1,4 +1,4 @@
-**Status**: Archive (code is provided as-is, no updates expected)
+**Status**: Corrections to Qs merged from the original repo's pull requests. Last updated: 29 Jun 2024.
 
 # Grade School Math
 
